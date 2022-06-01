@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NFT and Web3
+- 🌱 I’m currently learning solidity, rust
+- 👯 I’m looking to collaborate on all Web3 Project
+
+![wangshiyu GitHub stats](https://github-readme-stats.vercel.app/api?username=wangshiy&show_icons=true&theme=vision-friendly-dark&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wangshiy&layout=compact)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wangshiy&repo=amazonyte)](https://github.com/wangshiy/amazonyte)
+
 <!--
 **wangshiy/wangshiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
